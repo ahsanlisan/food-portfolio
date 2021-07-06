@@ -1,0 +1,85 @@
+body{font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;}
+.flexible-area{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+ 
+.width-half{width: 50%;
+   
+    padding-left: 5%;
+    }
+h1{font-size: 40px;
+
+}
+.orange-color{
+    color: orange;
+}
+
+.width-half1 img{width: 400px;}
+.width-half img{width: 200px;
+    height: 350px;
+padding-left: 120px;}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 800;
+    border-radius: 5px;
+}
+.back-banner{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position:unset;
+    background-position-x: -250px;
+    background-position-y: -150px;
+    
+}
+#hey{
+    padding-right: 300px;
+    
+}
+.back-banner-side{
+    background-image: url(images/food/Project\ Cover6.pngs);
+}
+.food-area{display: flex;
+  
+    
+    
+text-align: center;}
+.food-area1{ margin-left: 20px; border: 2px solid gray;
+border-radius: 40px;    width: 380px;
+box-shadow:0 4px 8px 0; }
+.food-area1 img{height: 200px;
+    
+    padding-top: 10px;
+    border-radius: 25px;
+
+width: 300px;
+} 
+.food-area1 h3{ text-align: left; padding-left: 10px;
+} 
+.center-text{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.image-backside{
+    background-image: url(images//shapes/Frame\ 59.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.second-orange{
+    color: orange;
+}
+
+
+
+
+
+
+
+
