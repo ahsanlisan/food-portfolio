@@ -75,7 +75,17 @@ width: 300px;
 .second-orange{
     color: orange;
 }
+.leka{text-align: center;
+padding-top: 50px;
+background: -webkit-linear-gradient(rgb(215, 255, 38), rgb(134, 20, 20));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+ 
 
+ 
+.our-brand{display: flex; width:100% ;}
+.video{margin-left: 10px;} 
+.map{margin-left: 30px;}
 
 
 
